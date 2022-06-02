@@ -1,5 +1,3 @@
-# Livro de receitas :man_cook:
+# Projetos Python![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
 
-Olá! Bem vindo ao meu livro de receitas :wave:
-
-- Strogonoff de frango
+Iniciando estudo em python :wave:
