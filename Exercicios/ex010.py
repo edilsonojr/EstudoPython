@@ -1,3 +1,3 @@
-d = float(input('Digite o valor total guardado em sua carteira: '))
+d = float(input('Digite o valor total guardado em sua carteira: R$ '))
 dol = 3.27
-print("Você pode troca os {:.2f} reais da sua carteira, por {:.2f} dolares".format( d, d // dol ))
+print("Você pode trocar R$:{:.2f} da sua carteira por US$:{:.2f}".format( d, d / dol ))
