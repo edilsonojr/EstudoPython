@@ -1,4 +1,3 @@
-from math import floor
+from math import trunc
 n = float(input("Digite um número: "))
-i = floor(n)
-print("O número {} tem a parte inteira {}".format(n, i))
+print("O número {} tem a parte inteira {}".format(n, trunc(n)))
