@@ -6,3 +6,8 @@ if nome == -1:
     print("O nome não tem SILVA")
 else:
     print("o nome tem SILVA")
+
+
+### OUTRA FORMA DE RESOLVER ###
+#nome = str(input("Qual é seu nome completo? ")).strip()
+#print("Seu nome tem Silva? {}".format("silva" in nome.lower()))
