@@ -1,0 +1,5 @@
+valor = input('Digite algo: ')
+print('O valor digitado é do tipo: ' )
+print(type(valor))
+print(valor.isalnum())
+print(valor.isupper())
