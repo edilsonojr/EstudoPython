@@ -37,5 +37,6 @@ elif idade > 18 and idade < 45:
         print(cores["magenta"] + "Já se passaram {} anos do tempo de se alistar...".format(idade - 18) + cores["reset"])
 else:
     print(cores["magentanegrito"] + "IDADE SUPERIOR A 45 ANOS, NÃO É POSSÍVEL MAIS SE ALISTAR..." + cores["reset"])
+
 print("\033[1;37m" + "Encerrando...")
 sleep(5)
